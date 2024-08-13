@@ -1,0 +1,117 @@
+.youcss
+
+
+.ap{
+			height:100px;
+			width:100%;
+}
+
+.fp{
+		padding-left:8%;
+		float:left;
+}
+
+.op{
+		color:black;
+		padding-left:1%;
+}
+
+.bb{ 
+		float:left;
+		color:black;
+		padding-left:50%;
+}
+
+.pq{
+		color:white;
+}
+
+.rr{
+		
+		padding-left:20%;
+}
+.circle{
+        height: 100px;
+        width: 100px;
+        background-color: lightblue;
+        border-radius: 50%;
+}
+
+.ccc{
+		float:left;
+}
+
+.ll{
+		padding-left:5%;
+		float:left;
+		width:20%;
+		height:350px;
+}
+.CC{
+		background-color:#5F5F5F;
+		border-radius:10px;
+		float:left;
+		color:white;
+		padding:0.5%;
+		margin-left:1%;
+		margin-top:1%;
+}
+.ohh{
+		float:left;
+		font-size:30px;
+		padding-left:2%;
+} 
+.tt{
+		font-size:19px;
+		color:white;	
+		float:left;
+		padding-left:2%;
+}
+
+.mm{
+		font-size:20px;
+		color:white;
+		margin-left:5%;
+}
+
+.hh{
+		border-radius:40px;
+		float:left;
+}
+
+.kk{
+		background-color:transparent;
+		margin-left:5%;
+		float:left;
+		width:20%;
+		height:350px;
+}
+.ss{
+		font-size:15px;
+		margin-left:4%;
+		color:grey;
+		margin-top:15%;
+}
+
+.xx{
+		float:left;
+		margin-left:1%;
+		font-size:20px;
+		border-radius:10px;
+}
+
+.bb{
+		float:left;
+		font-size:15px;
+}
+
+.yy{
+		border-radius:5%;
+}
+
+.nn{
+		margin-left:40px;
+		float:left;
+		width:18%;
+		margin-left:10px;
+}
